@@ -1,0 +1,6 @@
+#TYPE System.Data.DataRow
+"id","tray_slot","tray_type","barcode"
+"1","1","PA","PA1-001"
+"2","2","PA","PA2-001"
+"3","3","MA","MA3-001"
+"4","4","MA","MA4-001"

@@ -1,0 +1,5 @@
+#TYPE System.Data.DataRow
+"id","status_descr"
+"1","Empty"
+"2","Stocked"
+"3","On Board"
